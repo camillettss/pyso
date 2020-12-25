@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+    <line>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+    </line>
+    <line>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+    </line>
+    <line>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+    </line>
+    <line>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+        <column><dirt h="1"/></column>
+    </line>
+</map>
